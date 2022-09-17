@@ -34,7 +34,7 @@ public class Common_Steps {
 		}
 		driver.quit();
 		Thread.sleep(1000);
-		System.out.println("Global After Hook Executed");
+		System.out.println("Global After Hook Executed...");
 	}
 	
 	public WebDriver getDriver() {
